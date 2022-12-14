@@ -1,3 +1,5 @@
+#Usage paste into powershell console one command easy
+#irm https://raw.githubusercontent.com/C0nw0nk/C0nw0nk/main/get.ps1 | iex
 
 Set-ExecutionPolicy Bypass -Scope Process -Force;
 
