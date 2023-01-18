@@ -8,13 +8,13 @@ https://www.youtube.com/watch?v=ky_K9q8-ggQ&t=0m21s
 
 <div align="center">
       <b>Now i just sit in silence.</b>
-      <a href="https://www.youtube.com/watch?v=92XVwY54h5k&t=136s&autoplay=1" target="_blank">
+      <a href="https://www.youtube.com/watch?v=92XVwY54h5k&t=136s&autoplay=1" target="_blank" referrerpolicy="no-referrer">
          <img src="https://i.imgur.com/uOxaHC6.jpeg" style="width:100%;">
       </a>
 </div>
 <div align="center">
       <b>The achievements and work unappreciated.</b>
-      <a href="https://www.youtube.com/watch?v=DF0zefuJ4Ys&t=0m38s&autoplay=1" target="_blank">
+      <a href="https://www.youtube.com/watch?v=DF0zefuJ4Ys&t=0m38s&autoplay=1" target="_blank" referrerpolicy="no-referrer">
          <img src="https://i.imgur.com/gZiDHgu.jpeg" style="width:100%;">
       </a>
 </div>
