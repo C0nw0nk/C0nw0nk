@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on ... Anything!
 - 📫 How to reach me ... https://facebook.com/C0nw0nk
 
+### CVE Exploits, Cybersecurity Vulnerabilities and disclosures I have helped fix in the past
+[Joomla](https://developer.joomla.org/security-centre/683-core-information-disclosure.html)
+
+### Dad and Me
+
 https://www.youtube.com/watch?v=ky_K9q8-ggQ&t=0m21s
 
 <div align="center">
