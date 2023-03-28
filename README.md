@@ -7,7 +7,7 @@
 ### CVE Exploits, Cybersecurity Vulnerabilities and disclosures I have helped fix in the past
 [Joomla](https://developer.joomla.org/security-centre/683-core-information-disclosure.html)
 
-### Favourite keygen music (any true coder has this)
+### Favourite Chiptunes better known as keygen music (any true coder has this)
 [ACME](https://www.youtube.com/watch?v=DNws3j5k3m4)
 
 [Unreal Superhero OFCOURSE!](https://www.youtube.com/watch?v=o52goCHmrE8)
