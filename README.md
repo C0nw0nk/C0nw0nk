@@ -7,7 +7,11 @@
 ### CVE Exploits, Cybersecurity Vulnerabilities and disclosures I have helped fix in the past
 [Joomla](https://developer.joomla.org/security-centre/683-core-information-disclosure.html)
 
-### Dad and Me
+### Favourite keygen music (any true coder has this)
+[ACME](https://www.youtube.com/watch?v=DNws3j5k3m4)
+[Unreal Superhero OFCOURSE!](https://www.youtube.com/watch?v=o52goCHmrE8)
+
+### Dad and Me - David McKnight and Conor McKnight
 
 https://www.youtube.com/watch?v=ky_K9q8-ggQ&t=0m21s
 
