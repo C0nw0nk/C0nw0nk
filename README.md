@@ -18,6 +18,10 @@ https://www.youtube.com/watch?v=ky_K9q8-ggQ&t=0m21s
 
 [STAY IN YOUR LANE BOY](https://www.youtube.com/watch?v=ywvRgGAd2XI&t=104s)
 
+[SO MANY WISHES](https://www.youtube.com/watch?v=5FS8RIH7BpI)
+
+[Something like a new old savas](https://www.youtube.com/watch?v=EBJ0urdEWQw)
+
 <div align="center">
       <b>Now i just sit in silence.</b>
       <a href="https://www.youtube.com/watch?v=92XVwY54h5k&t=136s&autoplay=1" target="_blank" referrerpolicy="no-referrer">
