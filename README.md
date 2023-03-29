@@ -16,7 +16,7 @@
 
 ### Dad and Me - David McKnight and Conor McKnight
 
-[BAD DREAMS](https://www.youtube.com/watch?v=ky_K9q8-ggQ&t=0m21s)
+[HALLELUJAH](https://youtu.be/j_L2v_DJSxg?list=RDj_L2v_DJSxg&t=30)
 
 [STAY IN YOUR LANE BOY](https://www.youtube.com/watch?v=ywvRgGAd2XI&t=104s)
 
