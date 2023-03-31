@@ -8,15 +8,15 @@
 
 ### Paypal - [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZH9PFY62YSD7U&source=url)
 
-#### BTC - 19TAt9DvNxV3Jjc6b14Z61dgRfEaDRjsoo
+#### BTC Bitcoin - 19TAt9DvNxV3Jjc6b14Z61dgRfEaDRjsoo
 
-#### ETH via ERC20 - 0x42039bf642826648c073721602e68cb0f31f2394
+#### ETH Ethereum via ERC20 - 0x42039bf642826648c073721602e68cb0f31f2394
 
-#### BNB via BSC - 0x42039bf642826648c073721602e68cb0f31f2394
+#### BNB Binance coin via BSC - 0x42039bf642826648c073721602e68cb0f31f2394
 
 #### XMR Monero - 87rA6FTYDjGaawDJA2g4QeRtokxMhMv8tNC6aaM3cMZgjigpR4m5JwEh6M5Co923HkLLGGHfkveKaCrR9DWsBgX5AYBvGRF
 
-#### ZEC - t1W2637JeJni6UQssUfbp8yCWtin8Pk4Txw
+#### ZEC Zcash - t1W2637JeJni6UQssUfbp8yCWtin8Pk4Txw
 
 #### XVG - D9wWcrA4PHhQLZYwjLX7gMTRQrUDpArrco
 
