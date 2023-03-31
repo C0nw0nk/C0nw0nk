@@ -18,6 +18,8 @@
 
 #### ZEC - t1W2637JeJni6UQssUfbp8yCWtin8Pk4Txw
 
+#### XVG - D9wWcrA4PHhQLZYwjLX7gMTRQrUDpArrco
+
 ## CVE Exploits, Cybersecurity Vulnerabilities and disclosures I have helped fix in the past
 [Joomla](https://developer.joomla.org/security-centre/683-core-information-disclosure.html)
 
