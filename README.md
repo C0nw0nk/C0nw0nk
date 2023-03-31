@@ -16,6 +16,8 @@
 
 #### XMR Monero - 87rA6FTYDjGaawDJA2g4QeRtokxMhMv8tNC6aaM3cMZgjigpR4m5JwEh6M5Co923HkLLGGHfkveKaCrR9DWsBgX5AYBvGRF
 
+#### ZEC - t1W2637JeJni6UQssUfbp8yCWtin8Pk4Txw
+
 ## CVE Exploits, Cybersecurity Vulnerabilities and disclosures I have helped fix in the past
 [Joomla](https://developer.joomla.org/security-centre/683-core-information-disclosure.html)
 
