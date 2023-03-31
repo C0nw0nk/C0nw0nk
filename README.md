@@ -20,6 +20,10 @@
 
 #### XVG - D9wWcrA4PHhQLZYwjLX7gMTRQrUDpArrco
 
+#### FTM - 0x42039bf642826648c073721602e68cb0f31f2394
+
+#### SHIB - 0x42039bf642826648c073721602e68cb0f31f2394
+
 ## CVE Exploits, Cybersecurity Vulnerabilities and disclosures I have helped fix in the past
 [Joomla](https://developer.joomla.org/security-centre/683-core-information-disclosure.html)
 
