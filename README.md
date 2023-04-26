@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Everything!
 - 💞️ I’m looking to collaborate on ... Anything!
 - 📫 How to reach me ... https://facebook.com/C0nw0nk
-- 🪦 Dad - David McKnight - [Chelsea Football Club](https://www.chelseafc.com/en/news/article/david-mcknight) | [AFC Wimbledon](https://www.afcwimbledon.co.uk/news/2022/september/david-mcknight/)
+- 🪦 Dad - David McKnight - [Chelsea Football Club](https://www.chelseafc.com/en/news/article/david-mcknight) | [AFC Wimbledon](https://www.afcwimbledon.co.uk/news/2022/september/david-mcknight/) [I miss you..](https://www.youtube.com/watch?v=4FesdKg9-iY)
 
 # [I'm going to fight them all off](https://www.youtube.com/watch?v=KcZ73FRFLzY&t=15s)
 
