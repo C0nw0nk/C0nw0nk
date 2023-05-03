@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Anything!
 - 📫 How to reach me ... https://facebook.com/C0nw0nk
 - 🪦 Dad - David McKnight - [Chelsea Football Club](https://www.chelseafc.com/en/news/article/david-mcknight) | [AFC Wimbledon](https://www.afcwimbledon.co.uk/news/2022/september/david-mcknight/) | [I miss you..](https://www.youtube.com/watch?v=nOB-1bnQscU&t=112s)
+- Grandad - Wee Willie Harris - [Inspired a generation](https://www.dailymail.co.uk/tvshowbiz/article-12025115/Wee-Willie-Harris-dies-aged-90-Wild-man-rock-roll-Beatles-inspiration-passes-away.html) | [Beatles](https://youtu.be/tRnFHfI7WAQ?t=173)
 
 # [I'm going to fight them all off](https://www.youtube.com/watch?v=KcZ73FRFLzY&t=15s)
 
