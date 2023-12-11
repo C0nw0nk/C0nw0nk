@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @C0nw0nk
-- 👀 I’m interested in ... Shell, Command Line, PHP, VB.net, HTML, Javascript, MySQL, HTTP(S), Networking, Infrastructure, Lua, Bash, Delphi (Old i know), C, C++, Python and much much more lol
-- 🌱 I’m currently learning ... Everything!
-- 💞️ I’m looking to collaborate on ... Anything!
-- 📫 How to reach me ... https://facebook.com/C0nw0nk
-- 💼 LinkedIN ... https://www.linkedin.com/in/cons/
+
 - 🪦 Dad - David McKnight - [Chelsea Football Club](https://www.chelseafc.com/en/news/article/david-mcknight) | [AFC Wimbledon](https://www.afcwimbledon.co.uk/news/2022/september/david-mcknight/) | [I miss you..](https://www.youtube.com/watch?v=nOB-1bnQscU&t=112s)
 - 🪦 Grandad - Wee Willie Harris - [Inspired a generation](https://www.dailymail.co.uk/tvshowbiz/article-12025115/Wee-Willie-Harris-dies-aged-90-Wild-man-rock-roll-Beatles-inspiration-passes-away.html) | [Beatles](https://youtu.be/tRnFHfI7WAQ?t=173)
 
