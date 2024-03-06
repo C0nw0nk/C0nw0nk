@@ -21,8 +21,12 @@
          <img src="https://i.imgur.com/hZEJx02.jpg" style="width:100%;">
       </a>
 </div>
-
-https://www.youtube.com/watch?v=sqSA-SY5Hro
+<div align="center">
+      <b>David McKnight i miss you.</b>
+      <a href="https://www.youtube.com/watch?v=sqSA-SY5Hro&autoplay=1" target="_blank" referrerpolicy="no-referrer">
+         <img src="https://i.imgur.com/vmqp7eR.jpeg" style="width:100%;">
+      </a>
+</div>
 
 <!---
 C0nw0nk/C0nw0nk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
