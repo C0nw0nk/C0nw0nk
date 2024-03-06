@@ -16,6 +16,12 @@ https://youtu.be/5ZyQbU8Yvqc - I must have died alone, A long, long time ago, Wh
          <img src="https://i.imgur.com/gZiDHgu.jpeg" style="width:100%;">
       </a>
 </div>
+<div align="center">
+      <b>David McKnight i miss you.</b>
+      <a href="https://www.youtube.com/watch?v=Kq_Bao_AJDc&t=13s&autoplay=1" target="_blank" referrerpolicy="no-referrer">
+         <img src="https://i.imgur.com/hZEJx02.jpg" style="width:100%;">
+      </a>
+</div>
 
 <!---
 C0nw0nk/C0nw0nk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
